@@ -49,12 +49,4 @@ customer_merged <- merge(customer_info, invoices)
 write.csv(customer_merged, "customer_merged.csv")
 # 4.2 stat info
 write.csv(all_stat, "all_stat.csv")  
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
+
